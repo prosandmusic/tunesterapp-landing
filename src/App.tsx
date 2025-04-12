@@ -21,9 +21,7 @@ const App: React.FC = () => {
     <div className="app-container">
       <Menu />
       <main>
-        <h1>Welcome to Tunester</h1>
-        <p>Your one-stop platform for music and events!</p>
-      </main>
+       </main>
       <Footer />
     </div>
   );
